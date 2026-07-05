@@ -39,7 +39,7 @@ Dengan aplikasi ini, pengguna tidak perlu lagi mengedit screenshot menggunakan P
 Clone repository
 
 ```bash
-git clone https://github.com/USERNAME/ssrp-generator.git
+git clone https://github.com/Xyzet29/ssrp-generator.git
 ```
 
 Masuk ke folder project
